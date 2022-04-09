@@ -1,0 +1,10 @@
+__pycache__
+.env
+.venv
+temp
+cdk.out
+.pytest_cache
+cdk.context.json
+.idea
+*.pyc
+frontend/node_modules
